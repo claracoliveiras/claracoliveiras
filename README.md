@@ -18,6 +18,9 @@ You can checkout my personal website [here](https://claracoliveiras.github.io/),
 
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claracoliveiras&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=36123c&theme=buefy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracoliveiras&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 **claracoliveiras/claracoliveiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
