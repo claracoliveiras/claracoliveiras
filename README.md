@@ -1,10 +1,11 @@
-## Hello!
+<h1> Hello!</h1>
 
 <img align="right" src="https://i.pinimg.com/originals/38/c4/e1/38c4e1059ad36e7c968bbae10f9a031a.gif" width=300rem height=300rem></img>
 
-### My name is Clara and I'm a starting developer from <b>Brazil.</b>
+### My name is **Clara** and I'm a starting developer from **Brazil**.
 
-<p>I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it!</p>
+I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it!
+I love to play games like **Fortnite**, **Valorant** and **The Sims** and watch anime in my spare time, but I like to say that I'm the type of person to try anything at least once.
 
 #### For now, I've tried:
 - Java
