@@ -2,10 +2,15 @@
 
 <img align="right" src="https://i.pinimg.com/originals/66/47/95/664795b0b260373ca24a293be7357a6e.gif" width=300rem height=300rem></img>
 
-<h4>My name is Clara and I'm a passionate developer from <b>Brazil.</b></h4>
+<h3>My name is Clara and I'm a starting developer from <b>Brazil.</b></h3>
 
-<p>I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most!</p>
+<p>I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it!</p>
 
+#### For now, I've tried:
+- Java
+- Python
+- JavaScript/TypeScript
+- HTML/CSS
 
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claracoliveiras&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
