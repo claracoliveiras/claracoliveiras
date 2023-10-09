@@ -2,7 +2,8 @@
 <p align="left">My name is Clara, I'm a 19yo developer from <b>Brazil!</b></p>
 
 
-<img align="right" src="https://i.pinimg.com/originals/66/47/95/664795b0b260373ca24a293be7357a6e.gif" width=400rem height=400rem></img>
+<img align="right" src="https://i.pinimg.com/originals/66/47/95/664795b0b260373ca24a293be7357a6e.gif" width=300rem height=300rem></img>
+
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claracoliveiras&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 <!--
 **claracoliveiras/claracoliveiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
