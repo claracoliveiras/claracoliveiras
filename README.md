@@ -8,7 +8,7 @@
 
 :cherry_blossom: In my spare time, I love to play games like **Fortnite**, **Valorant** and **The Sims** and watch anime, but I like to say that I'm the type of person to try anything at least once.
 
-You can checkout my personal website [here](https://claracoliveiras.github.io/), or its less-serious (more friend focused) version [here](clawra.moe). Both display what projects I'm currently working on and a few links.
+You can checkout my personal website [here](https://claracoliveiras.github.io/), or its less-serious (more friend focused) version [here](https://clawra.moe). Both display what projects I'm currently working on and a few links.
 
 #### For now, I've tried:
 - Java
