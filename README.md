@@ -1,6 +1,6 @@
 # Hello!
 
-<img align="right" src="https://i.pinimg.com/originals/66/47/95/664795b0b260373ca24a293be7357a6e.gif" width=300rem height=300rem></img>
+<img align="right" src="https://i.pinimg.com/originals/38/c4/e1/38c4e1059ad36e7c968bbae10f9a031a.gif" width=300rem height=300rem></img>
 
 <h3>My name is Clara and I'm a starting developer from <b>Brazil.</b></h3>
 
