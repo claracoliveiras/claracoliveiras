@@ -4,8 +4,10 @@
 
 ### My name is **Clara** and I'm a starting developer from **Brazil**.
 
-I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it!
+I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it, doesnt matter the difficulty!
 I love to play games like **Fortnite**, **Valorant** and **The Sims** and watch anime in my spare time, but I like to say that I'm the type of person to try anything at least once.
+
+You can checkout my personal website [here](https://claracoliveiras.github.io/), or its less-serious (more friend focused) version [here](clawra.moe). Both display what projects I'm currently working on and a few links.
 
 #### For now, I've tried:
 - Java
