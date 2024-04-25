@@ -4,9 +4,9 @@
 
 ### My name is **Clara** and I'm a starting developer from **Brazil**.
 
-:computer: I have been in contact with technology for my entire life, but just recently enrolled in a college program dedicated to it. I'm currently trying to figure out what languages I like the most, so as long as it's learnable, I'm up for it, doesnt matter the difficulty!
+:computer: I have been in contact with technology for my entire life, and just recently started deepening my knowledge in the area. Im currently working on learning a lot of **C#**, also having some experience with **Python** applications that came from my college program.  
 
-:cherry_blossom: In my spare time, I love to play games like **Fortnite**, **Valorant** and **The Sims** and watch anime, but I like to say that I'm the type of person to try anything at least once.
+:cherry_blossom: In my spare time, I love to play games like **Fortnite**, **Valorant** and **The Sims**, but I like to say that I'm the type of person to try anything at least once.
 
 You can checkout my personal website [here](https://claracoliveiras.github.io/), or its less-serious (more friend focused) version [here](https://clawra.moe). Both display what projects I'm currently working on and a few links.
 
