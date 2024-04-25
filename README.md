@@ -10,11 +10,6 @@
 
 You can checkout my personal website [here](https://claracoliveiras.github.io/), or its less-serious (more friend focused) version [here](https://clawra.moe). Both display what projects I'm currently working on and a few links.
 
-#### For now, I've tried:
-- Java
-- Python
-- JavaScript/TypeScript
-- HTML/CSS
 
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claracoliveiras&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=buefy)
